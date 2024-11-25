@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sauces",
+    "src": "/sauces.webp",
+    "minPrice": "12.85$"
+  },
+  {
+    "name": "Gourmet Snacks",
+    "src": "/snacks.webp",
+    "minPrice": "9.50$"
+  },
+  {
+    "name": "Coffee",
+    "src": "/coffee.webp",
+    "minPrice": "19 .85$"
+  },
+  {
+    "name": "Beverages",
+    "src": "/beverages.webp",
+    "minPrice": "7.65$"
+  },
+  {
+    "name": "Spreads",
+    "src": "/spreads.webp",
+    "minPrice": "10.95$"
+  },
+  {
+    "name": "Subscription Box",
+    "src": "/box.webp",
+    "minPrice": "22.50$"
+  },
+  {
+    "name": "All Products",
+    "src": "/all_products.webp",
+    "minPrice": "5.00$"
+  },
+  {
+    "name": "Pink Pantry",
+    "src": "/pink_pantry.webp",
+    "minPrice": "19.85$"
+  }
+]

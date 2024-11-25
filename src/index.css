@@ -1,0 +1,16 @@
+@import url("./styles/reset.css");
+@import url("./styles/header.css");
+@import url("./styles/main-slider.css");
+@import url("./styles/grocery-aisles.css");
+@import url("./styles/footer.css");
+@import url("./styles/about-us.css");
+
+body {
+  margin: 0;
+  font-family: "Playfair";
+}
+
+.App {
+  min-height: 100vh;
+  position: relative;
+}
