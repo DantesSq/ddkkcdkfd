@@ -83,6 +83,10 @@
   .about-us-content {
     padding: 0 100px;
   }
+  .about-us-section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 }
 
 @media (max-width: 980px) {
@@ -108,5 +112,15 @@
   .about-us-image {
     width: 100%;
     height: 100%;
+  }
+
+  .about-us-header-text {
+    font-size: 45px;
+  }
+}
+
+@media (max-width: 500px) {
+  .about-us-header {
+    height: 200px;
   }
 }
